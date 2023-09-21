@@ -6,7 +6,11 @@
 
 Chrome115版本以后的webdriver chrome驱动自动下载
 
+selenium4.11以后更新了官方自动下载驱动的方法，但速度感觉有点慢，此库可以用在selenium4.11版本之前的版本使用
+
 Automatically download Chrome WebDriver for Chrome versions 115 and above.
+
+After Selenium 4.11, the official WebDriver provides an automatic download method. However, it may be relatively slow. This library can be used for versions prior to Selenium 4.11 to provide faster WebDriver downloads.
 
 安装 Installation:
 ```bash
