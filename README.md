@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/python-%3E%3D3.7-brightgreen)
 ![](https://img.shields.io/badge/License-MIT-blue)
-![](https://img.shields.io/badge/version-0.0.2-yellowgreen)
+![](https://img.shields.io/badge/version-0.0.3-yellowgreen)
 
 **Chrome115版本以后的webdriver chrome驱动自动下载**
 
